@@ -1,6 +1,8 @@
-# Up and Running with Git: A pragmatic, UI-based approach
+# [Up and Running with Git: A pragmatic, UI-based approach](https://training.talkpython.fm/courses/up-and-running-with-git-a-pragmatic-ui-based-introduction)
 
 [![](./readme_resources/pragmatic-git.png)](https://training.talkpython.fm/courses/up-and-running-with-git-a-pragmatic-ui-based-introduction)
+
+See **[the course page](https://training.talkpython.fm/courses/up-and-running-with-git-a-pragmatic-ui-based-introduction)** for details and overview video.
 
 # Featured repositories
 
