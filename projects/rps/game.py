@@ -94,9 +94,9 @@ def check_for_winning_throw(player_1, player_2, roll1, roll2):
         print("The play was tied!")
 
     outcome = rolls.get(roll1, {})
-    if roll2 in outcome.get('defeats'):
+    if roll2 in outcome.get('defeats', ''):
         return player_1
-    elif roll2 in outcome.get('defeated_by'):
+    elif roll2 in outcome.get('defeated_by', ''):
         return player_2
 
     return winner
